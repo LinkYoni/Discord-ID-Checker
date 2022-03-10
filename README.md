@@ -27,7 +27,8 @@ git clone https://github.com/LinkYoni/Discord-ID-Checker
 ```
 - Run the file and enter an ID of a user / bot
 ```
-<p align="left"><img src="https://media.discordapp.net/attachments/946392863372095532/951531299158511656/unknown.png</p>
+
+<p align="left"><img src="https://media.discordapp.net/attachments/946392863372095532/951531299158511656/unknown.png"</p>
 
 ## Output
 
