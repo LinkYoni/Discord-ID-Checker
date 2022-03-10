@@ -41,3 +41,5 @@ The folder contains:
 - Obtained information
 
 <p align="left"><img src="https://media.discordapp.net/attachments/946392863372095532/951496275654746132/unknown.png"</p>
+
+###### ¿Necesitas ayuda? Contáctame por Discord (``$ Yøni ⁶⁹ 🚬#0003``)
