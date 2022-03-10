@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://img.shields.io/github/languages/top/Rdimo/Hazard-Token-Grabber-V2?style=flat-square" </a>
-</p>
-
 # Discord ID Checker
 
 A simple user or bot ID checker for Discord
