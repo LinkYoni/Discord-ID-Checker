@@ -14,7 +14,7 @@ The results are exported to a folder with the user name, date and time of the qu
 
 <p align="left"><img src="https://media.discordapp.net/attachments/946392863372095532/951500477827268628/unknown.png"</p>
 
-The folder exports:
+The folder contains:
 - Avatar
 - Banner (if it exists)
 - Obtained information
