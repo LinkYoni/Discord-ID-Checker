@@ -2,11 +2,11 @@
 
 A simple user or bot ID checker for Discord
 
-## What looks like
+## 👁‍🗨 ➜ What looks like
 
 <p align="left"><img src="https://media.discordapp.net/attachments/946392863372095532/951495868635295834/unknown.png"</p>
 
-## ⚙️➜ Installation
+## ⚙️ ➜ Installation
 
 ```
 apt-get install python3
@@ -15,7 +15,7 @@ pip3 install -r requirements.txt
 git clone https://github.com/LinkYoni/Discord-ID-Checker
 ```
 
-## 🔨➜ How to use
+## 🔨 ➜ How to use
 
 ```
 - Open the file with a code editor, go to line 17 and insert the token of a bot
@@ -29,7 +29,7 @@ You can create one at --> https://discord.com/developers/applications
 
 <p align="left"><img src="https://media.discordapp.net/attachments/946392863372095532/951531299158511656/unknown.png"</p>
 
-## Output
+## 📩 ➜ Output
 
 The results are exported to a folder with the user name, date and time of the query.
 
