@@ -1,6 +1,6 @@
 # Discord ID Checker
 
-A simple user or bot ID checker for Discord
+A simple user or bot ID checker for Discord.
 
 ## 👁‍🗨 ➜ What looks like
 
