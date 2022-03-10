@@ -31,15 +31,17 @@ You can create one at --> https://discord.com/developers/applications
 
 ## 📩 ➜ Output
 
+  ```
 The results are exported to a folder with the user name, date and time of the query.
-
+```
 <p align="left"><img src="https://media.discordapp.net/attachments/946392863372095532/951500477827268628/unknown.png"</p>
 
+```
 The folder contains:
 - Avatar
 - Banner (if it exists)
 - Obtained information
-
+```
 <p align="left"><img src="https://media.discordapp.net/attachments/946392863372095532/951496275654746132/unknown.png"</p>
 
 ###### 🔧 | ¿Necesitas ayuda? Contáctame por Discord: ``$ Yøni ⁶⁹ 🚬#0003``
