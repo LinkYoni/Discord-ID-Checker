@@ -24,7 +24,7 @@ You can create one at [Discord Developers API](https://discord.com/developers/ap
 <p align="left"><img src="https://media.discordapp.net/attachments/946392863372095532/951529455715774544/unknown.png"</p>
 
 ```
-- Run the file and enter an ID of a user / bot
+- Run the file, put an ID of a user / bot and press enter
 ```
 
 <p align="left"><img src="https://media.discordapp.net/attachments/946392863372095532/951531299158511656/unknown.png"</p>
