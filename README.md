@@ -19,7 +19,7 @@ git clone https://github.com/LinkYoni/Discord-ID-Checker
 
 ```
 - Open the file with a code editor, go to line 17 and insert the token of a bot
-You can create one at [Discord Developers API](https://discord.com/developers/applications)
+You can create one at [Discord-Developers-API](https://discord.com/developers/applications)
 ```
 <p align="left"><img src="https://media.discordapp.net/attachments/946392863372095532/951529455715774544/unknown.png"</p>
 
