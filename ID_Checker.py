@@ -2,7 +2,6 @@ import requests
 import os
 import colorama
 from colorama import Fore, Style
-import discord
 from datetime import datetime
 from getpass import getpass
 import shutil
@@ -12,8 +11,6 @@ colorama.init()
 def clear():
 	os.system('cls')
 clear()
-
-client = discord.Client()
 
 token = '' #a bot token
 
