@@ -32,9 +32,9 @@ You can create one at --> https://discord.com/developers/applications
 ## 📩 ➜ Output
 
   ```
-The results are exported to a folder with the user name, date and time of the query.
+The results are exported to a folder with the user ID, date and time of the query.
 ```
-<p align="left"><img src="https://media.discordapp.net/attachments/946392863372095532/951500477827268628/unknown.png"</p>
+<p align="left"><img src="https://media.discordapp.net/attachments/946392863372095532/953778254739800094/unknown.png"</p>
 
 ```
 The folder contains:
@@ -44,4 +44,4 @@ The folder contains:
 ```
 <p align="left"><img src="https://media.discordapp.net/attachments/946392863372095532/951496275654746132/unknown.png"</p>
 
-###### 🔧 | Do you need help? Contact me by Discord: ``$ Yøni ⁶⁹ 🚬#0003`` I'm in [LinkSquad Discord Server](https://discord.gg/lsq)
+###### 🔧 | Do you need help? Contact me by Discord: ``$ Yøni ⁶⁹ 🚬#0003`` I'm in [LinkSquad Discord Server](https://discord.gg/linksquad)
