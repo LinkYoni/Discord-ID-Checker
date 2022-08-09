@@ -44,4 +44,4 @@ The folder contains:
 ```
 <p align="left"><img src="https://media.discordapp.net/attachments/946392863372095532/951496275654746132/unknown.png"</p>
 
-###### 🔧 | Do you need help? Contact me by Discord: ``$ Yøni ⁶⁹ 🚬#0003`` I'm in [LinkSquad Discord Server](https://discord.gg/linksquad)
+###### 🔧 | Do you need help? Contact me by Discord: ``$ Yøni 🚬#0005``
